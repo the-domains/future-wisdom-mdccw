@@ -1,0 +1,14 @@
+layout_spectrum: 0.2642512107267976
+typography_spectrum: 0.1860253147315234
+color:
+  brandStrength: 0.01145188813097775
+  lightness: 0.3881555409170687
+  saturation: 0.4031200229655951
+  rhythmicContrast: 0.12039993656799197
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+name: future wisdom
