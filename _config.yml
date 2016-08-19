@@ -1,4 +1,3 @@
-layout_spectrum: 0.2642512107267976
 typography_spectrum: 0.1860253147315234
 color:
   brandStrength: 0.01145188813097775
@@ -6,9 +5,11 @@ color:
   saturation: 0.4031200229655951
   rhythmicContrast: 0.12039993656799197
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.2642512107267976
 name: future wisdom
+title: FUTURE WISDOM
