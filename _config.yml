@@ -1,3 +1,4 @@
+layout_spectrum: 0.2642512107267976
 typography_spectrum: 0.1860253147315234
 color:
   brandStrength: 0.01145188813097775
@@ -10,11 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.2642512107267976
-author:
-  name: Matthew McIver
-  email: mmciver13@gmail.com
-  url: www.fstop13photo.com
 name: future wisdom
-title: thoughts from above
-description: PHOTOS BY M. McIVER
